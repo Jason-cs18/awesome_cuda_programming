@@ -5,3 +5,5 @@
 2. 四种主要的NVIDIA计算平台（根据应用场景分类）：Tegra (embedding devices), Geforce (games), Quadro (design) and Tesla (computing)。
 3. CUDA程序的五个步骤：1）分配GPU内存；2）拷贝内存到设备；3）调用CUDA内核函数来执行计算；4）把计算完成数据拷贝回主机端；5）内存销毁。
 4. Windows上编译：nvcc -o hello_world hello_world.cu
+## Chapter-2.0 CUDA编程模型概述（一）
+
