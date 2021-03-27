@@ -1,2 +1,2 @@
-# awesome_cuda_programming
+# awesome CUDA programming
 resources for cuda programming
