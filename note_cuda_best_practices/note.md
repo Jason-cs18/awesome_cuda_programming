@@ -1,0 +1,1 @@
+# notes for chinese blog
